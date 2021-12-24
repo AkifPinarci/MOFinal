@@ -1,6 +1,6 @@
 # planner
 
-A new Flutter project. Which is in design phase at the moment.
+A new Flutter project which is in design phase at the moment.
 
 ## Getting Started
 
